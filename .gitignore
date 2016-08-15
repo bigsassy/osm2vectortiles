@@ -12,3 +12,7 @@ export/
 
 # Temp edit files
 *.swp
+
+# Other
+.idea
+.DS_Store
